@@ -4,11 +4,75 @@
   
     
     <entry>
-      <title>Hexo基础指令</title>
-      <link href="2020/11/28/Hexo%E5%9F%BA%E7%A1%80%E6%8C%87%E4%BB%A4/"/>
-      <url>2020/11/28/Hexo%E5%9F%BA%E7%A1%80%E6%8C%87%E4%BB%A4/</url>
+      <title>TypeScript概述</title>
+      <link href="archives/3a71cbb0.html"/>
+      <url>archives/3a71cbb0.html</url>
       
-        <content type="html"><![CDATA[<h1 id="hexo-n-page-“新创建的文件”与hexo-n-“新创建的文件”的区别："><a href="#hexo-n-page-“新创建的文件”与hexo-n-“新创建的文件”的区别：" class="headerlink" title="hexo n page “新创建的文件”与hexo n “新创建的文件”的区别："></a>hexo n page “新创建的文件”与hexo n “新创建的文件”的区别：</h1><p>hexo n page会在source目录下创建<br><img data-src="/images/1.jpg" alt=""><br>hexo n会在_post目录下创建<br><img data-src="/images/2.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ECMAScript概述</title>
+      <link href="archives/b67dadf4.html"/>
+      <url>archives/b67dadf4.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JavaScript概述</title>
+      <link href="archives/4f44716d.html"/>
+      <url>archives/4f44716d.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ajax概述</title>
+      <link href="archives/ef9e5d41.html"/>
+      <url>archives/ef9e5d41.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Get和post的区别："><a href="#Get和post的区别：" class="headerlink" title="Get和post的区别："></a>Get和post的区别：</h2><p>1.Get是不安全的，因为在传输过程，数据被放在请求的URL中；Post的所有操作对用户来说都是不可见的。<br>2.Get传送的数据量较小，这主要是因为受URL长度限制；Post传送的数据量较大，一般被默认为不受限制。<br>3.Get限制Form表单的数据集的值必须为ASCII字符；而Post支持整个ISO10646字符集。<br>4.Get执行效率却比Post方法好。Get是form提交的默认方法。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Ajax </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ajax </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo基础指令</title>
+      <link href="archives/3f95b3b8.html"/>
+      <url>archives/3f95b3b8.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="注意编写代码时要注意保存ctrl-s"><a href="#注意编写代码时要注意保存ctrl-s" class="headerlink" title="注意编写代码时要注意保存ctrl+s"></a>注意编写代码时要注意保存ctrl+s</h1><h1 id="hexo-n-page-“新创建的文件”与hexo-n-“新创建的文件”的区别："><a href="#hexo-n-page-“新创建的文件”与hexo-n-“新创建的文件”的区别：" class="headerlink" title="hexo n page “新创建的文件”与hexo n “新创建的文件”的区别："></a>hexo n page “新创建的文件”与hexo n “新创建的文件”的区别：</h1><p>hexo n page会在source目录下创建<br><img data-src="/images/1.jpg" alt=""><br>hexo n会在_post目录下创建<br><img data-src="/images/2.jpg" alt=""><br>启动本地服务器，用于预览主题。默认地址： <a href="http://localhost:4000/">http://localhost:4000/</a><br>hexo s 是 hexo server 的缩写。<br>hexo clean 清除缓存<br>hexo g 进行编译<br>hexo d 上传仓库<br>title 文章的标题<br>date 创建日期<br>updated 修改日期<br>comments 是否开启评论<br>tags 标签<br>categories 分类<br>Permalink url中的名字</p>]]></content>
       
       
       <categories>
@@ -30,8 +94,8 @@
     
     <entry>
       <title>HTML5笔记</title>
-      <link href="2020/11/28/HTML5%E6%96%B0%E7%89%B9%E6%80%A7/"/>
-      <url>2020/11/28/HTML5%E6%96%B0%E7%89%B9%E6%80%A7/</url>
+      <link href="archives/cce75ade.html"/>
+      <url>archives/cce75ade.html</url>
       
         <content type="html"><![CDATA[<h1 id="HTML5-中的一些有趣的新特性："><a href="#HTML5-中的一些有趣的新特性：" class="headerlink" title="HTML5 中的一些有趣的新特性："></a>HTML5 中的一些有趣的新特性：</h1><p>用于绘画的 canvas 元素<br>用于媒介回放的 video 和 audio 元素<br>对本地离线存储的更好的支持<br>新的特殊内容元素，比如 article、footer、header、nav、section<br>新的表单控件，比如 calendar、date、time、email、url、search</p><h1 id="语义化"><a href="#语义化" class="headerlink" title="语义化:"></a>语义化:</h1><h2 id="header"><a href="#header" class="headerlink" title="header:"></a>header:</h2><p>通常被放置在页面或者页面中某个区块元素的顶部，包含整个页面或者区块的标题、简介等信息，起到引导与导航的作用。</p><h2 id="nav"><a href="#nav" class="headerlink" title="nav:"></a>nav:</h2><p>表示页面的导航，可以通过导航连接到网站的其他页面，或者当前页面的其它部分。</p><h2 id="aside"><a href="#aside" class="headerlink" title="aside:"></a>aside:</h2><p>所包含的内容不是页面的主要内容、具有独立性，是对页面的补充。(侧边栏)</p><h2 id="footer"><a href="#footer" class="headerlink" title="footer:"></a>footer:</h2><p>一般被放置在页面或者页面中某个区块的底部，包含版权信息、联系方式等信息。</p><h2 id="article"><a href="#article" class="headerlink" title="article:"></a>article:</h2><p>表示包含于一个文档、页面、应用程序或网站中的一段独立的内容，可以被独立的发布或者重新使用文章标记标签。</p><h2 id="section"><a href="#section" class="headerlink" title="section:"></a>section:</h2><p>是一个主题性的内容分组，通常用于对页面进行分块或者对文章等进行分段。<br>定义日期或时间，或者两者。</p><h2 id="time"><a href="#time" class="headerlink" title="time :"></a>time :</h2><p>定义日期或时间，或者两者。闭合标签；行内元素，默认情况下，宽：内容的宽度；高：内容的高度； (行内元素)</p><h2 id="map"><a href="#map" class="headerlink" title="map:"></a>map:</h2><p>定义客户端的图像映射。图像映射是带有可点击区域的图像。</p><h2 id="area"><a href="#area" class="headerlink" title="area:"></a>area:</h2><p>area 元素永远嵌套在 map 元素内部。area 元素可定义图像映射中的区域。 </p><h2 id="总结-使用方法与div-或span-无太大区别-只不过增加了标签的语义化-让页面设计更清晰"><a href="#总结-使用方法与div-或span-无太大区别-只不过增加了标签的语义化-让页面设计更清晰" class="headerlink" title="总结:使用方法与div(或span)无太大区别,只不过增加了标签的语义化,让页面设计更清晰."></a>总结:使用方法与div(或span)无太大区别,只不过增加了标签的语义化,让页面设计更清晰.</h2><h1 id="新增实用标签"><a href="#新增实用标签" class="headerlink" title="新增实用标签"></a>新增实用标签</h1><h2 id="hgroup"><a href="#hgroup" class="headerlink" title="hgroup:"></a>hgroup:</h2><p>给标题分组，为标题或者子标题进行分组，通常与h1-h6元素组合使用。如果文章中只有一个标题，则不使用hgroup。</p><h2 id="audio"><a href="#audio" class="headerlink" title="audio:"></a>audio:</h2><p>播放声音文件，比如音乐或其它音频流。</p><h2 id="video"><a href="#video" class="headerlink" title="video:"></a>video:</h2><p>播放视频文件，比如电影或其它视频流。</p><h2 id="canvas-画布"><a href="#canvas-画布" class="headerlink" title="canvas(画布):"></a>canvas(画布):</h2><p>定义图形，比如图表和其他图像。</p><h2 id="embed"><a href="#embed" class="headerlink" title="embed:"></a>embed:</h2><p>定义嵌入的内容，比如插件。用来插入各种多媒体，格式可以是MIDI、MP3等</p><h2 id="mark"><a href="#mark" class="headerlink" title="mark:"></a>mark:</h2><p>定义页面中需要突出显示或高亮显示的内容</p><h1 id="新增的属性"><a href="#新增的属性" class="headerlink" title="新增的属性"></a>新增的属性</h1><h2 id="contenteditable-true-false"><a href="#contenteditable-true-false" class="headerlink" title="contenteditable:true(false)"></a>contenteditable:true(false)</h2><p>规定是否允许用户编辑内容。</p><h2 id="data-yourvalue-value"><a href="#data-yourvalue-value" class="headerlink" title="data-yourvalue:value"></a>data-yourvalue:value</h2><p>创作者定义的属性。HTML 文档的创作者可以定义他们自己的属性。必须以 “data-“ 开头。</p><h2 id="draggable-true-false-auto"><a href="#draggable-true-false-auto" class="headerlink" title="draggable:true(false,auto)"></a>draggable:true(false,auto)</h2><p>当前元素用户是否可拖动。</p><h2 id="spellcheck-true-false"><a href="#spellcheck-true-false" class="headerlink" title="spellcheck:true(false)"></a>spellcheck:true(false)</h2><p>规定是否必须对元素进行拼写或语法检查。</p><h2 id="HTML5表单"><a href="#HTML5表单" class="headerlink" title="HTML5表单"></a>HTML5表单</h2><p>input (类型)<br>email :<br>类型用于应该包含 e-mail 地址的输入域。在提交表单时，会自动验证 email 域的值。</p><p>url :<br>类型用于应该包含 URL 地址的输入域。在提交表单时，会自动验证 url 域的值。</p><p>number :<br>类型用于应该包含数值的输入域。</p><p>range :<br> 类型显示为滑动条。</p><h2 id="HTML5-拥有多个可供选取日期和时间的新输入类型："><a href="#HTML5-拥有多个可供选取日期和时间的新输入类型：" class="headerlink" title="HTML5 拥有多个可供选取日期和时间的新输入类型："></a>HTML5 拥有多个可供选取日期和时间的新输入类型：</h2><p>date - 选取日、月、年<br>month - 选取月、年<br>week - 选取周和年<br>time - 选取时间（小时和分钟）<br>datetime - 选取时间、日、月、年（UTC 时间）<br>datetime-local - 选取时间、日、月、年（本地时间）<br>search: 类型用于搜索域，比如站点搜索或 Google 搜索。search 域显示为常规的文本域。</p><p>新增表单元素(兼容性很差,暂时不使用)<br>datalist<br>keygen<br>output<br>新增表单属性<br>autocomplete 属性规定 form 或 input 域应该拥有自动完成功能。及自动提示用应输入规定的格式.</p><p>autofocus 属性规定在页面加载时，域自动地获得焦点。</p><p>min、max 和 step 属性用于为包含数字或日期的 input 类型规定限定（约束）。</p><p>max 属性规定输入域所允许的最大值。</p><p>min 属性规定输入域所允许的最小值。</p><p>step 属性为输入域规定合法的数字间隔（如果 step=”3”，则合法的数是 -3,0,3,6 等）。</p><p>novalidate 属性规定在提交表单时不应该验证 form 或 input 域。</p><p>pattern 属性规定用于验证 input 域的模式（pattern）</p><p>required 属性规定必须在提交之前填写输入域（不能为空）。</p>]]></content>
       
@@ -55,10 +119,10 @@
     
     <entry>
       <title>Vue全家桶概述</title>
-      <link href="2020/11/28/Vue%E5%85%A8%E5%AE%B6%E6%A1%B6%E6%A6%82%E8%BF%B0/"/>
-      <url>2020/11/28/Vue%E5%85%A8%E5%AE%B6%E6%A1%B6%E6%A6%82%E8%BF%B0/</url>
+      <link href="archives/b4ee0dd6.html"/>
+      <url>archives/b4ee0dd6.html</url>
       
-        <content type="html"><![CDATA[<h1 id="首先Vue全家桶是什么？"><a href="#首先Vue全家桶是什么？" class="headerlink" title="首先Vue全家桶是什么？"></a>首先Vue全家桶是什么？</h1><h2 id="1-vue-cli"><a href="#1-vue-cli" class="headerlink" title="1.vue-cli"></a>1.vue-cli</h2><p>vue-cli也叫脚手架，官方定义为Vue.js 开发的标准工具！相比scirpt标签引入，脚手架具有如下特点：<br>  1）、功能丰富<br>对 Babel、TypeScript、ESLint、PostCSS、PWA、单元测试和 End-to-end 测试提供开箱即用的支持。<br>  2）、易于扩展<br>它的插件系统可以让社区根据常见需求构建和共享可复用的解决方案。<br>  3）、Eject<br>Vue CLI 完全是可配置的，无需 eject。这样你的项目就可以长期保持更新了。<br>  4）、CLI 之上的图形化界面<br>通过配套的图形化界面创建、开发和管理你的项目。<br>  5）、即刻创建原型<br>用单个 Vue 文件即刻实践新的灵感。<br>  6）、面向未来<br>为现代浏览器轻松产出原生的 ES2015 代码，或将你的 Vue 组件构建为原生的 Web Components 组件。</p><h2 id="2-Vue-Router"><a href="#2-Vue-Router" class="headerlink" title="2.Vue Router"></a>2.Vue Router</h2><p>Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。包含的功能有：<br>1）、嵌套的路由/视图表<br>2）、模块化的、基于组件的路由配置<br>3）、路由参数、查询、通配符<br>4）、基于 Vue.js 过渡系统的视图过渡效果<br>5）、细粒度的导航控制<br>6）、带有自动激活的 CSS class 的链接<br>7）、HTML5 历史模式或 hash 模式，在 IE9 中自动降级<br>8）、自定义的滚动条行为</p><h2 id="3-Vuex"><a href="#3-Vuex" class="headerlink" title="3.Vuex"></a>3.Vuex</h2><p>   Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。Vuex 也集成到 Vue 的官方调试具 devtools extension，提供了诸如零配置的 time-travel 调试、状态快照导入导出等高级调试功能。<br>   Vuex 可以帮助我们管理共享状态，并附带了更多的概念和框架。这需要对短期和长期效益进行权衡。</p><p>  如果您不打算开发大型单页应用，使用 Vuex 可能是繁琐冗余的。确实是如此——如果您的应用够简单，您最好不要使用 Vuex。一个简单的 store 模式就足够您所需了。但是，如果您需要构建一个中大型单页应用，您很可能会考虑如何更好地在组件外部管理状态，Vuex 将会成为自然而然的选择。</p><h2 id="4-Axios"><a href="#4-Axios" class="headerlink" title="4.Axios"></a>4.Axios</h2><p>Axios是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。Axios的特性有:<br>1）、从浏览器中创建 XMLHttpRequests<br>2）、从 node.js 创建 http 请求<br>3）、支持 Promise API<br>4）、拦截请求和响应<br>5）、转换请求数据和响应数据<br>6）、取消请求<br>7）、自动转换 JSON 数据<br>8）、客户端支持防御 XSRF</p><h1 id="5-搭配UI框架"><a href="#5-搭配UI框架" class="headerlink" title="5.搭配UI框架:"></a>5.搭配UI框架:</h1><p>iview 一套基于 Vue的高质量UI 组件库(分为小程序和pc端等不同版本)<br>vant 轻量、可靠的移动端 Vue 组件库,是有赞开源的一套基于 Vue 2.0 的 Mobile 组件库,旨在更快、更简单地开发基于 Vue 的美观易用的移动站点。<br>Ant Design Vue 是 Ant Design 的 Vue 实现，开发和服务于企业级后台产品。<br>elementUI 是基于 Vue 2.0 桌面端中后台组件库。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="首先Vue全家桶是什么？"><a href="#首先Vue全家桶是什么？" class="headerlink" title="首先Vue全家桶是什么？"></a>首先Vue全家桶是什么？</h1><h2 id="1-vue-cli"><a href="#1-vue-cli" class="headerlink" title="1.vue-cli"></a>1.vue-cli</h2><p>vue-cli也叫脚手架，官方定义为Vue.js 开发的标准工具！相比scirpt标签引入，脚手架具有如下特点：<br>  1）、功能丰富<br>对 Babel、TypeScript、ESLint、PostCSS、PWA、单元测试和 End-to-end 测试提供开箱即用的支持。<br>  2）、易于扩展<br>它的插件系统可以让社区根据常见需求构建和共享可复用的解决方案。<br>  3）、Eject<br>Vue CLI 完全是可配置的，无需 eject。这样你的项目就可以长期保持更新了。<br>  4）、CLI 之上的图形化界面<br>通过配套的图形化界面创建、开发和管理你的项目。<br>  5）、即刻创建原型<br>用单个 Vue 文件即刻实践新的灵感。<br>  6）、面向未来<br>为现代浏览器轻松产出原生的 ES2015 代码，或将你的 Vue 组件构建为原生的 Web Components 组件。</p><h2 id="2-Vue-Router"><a href="#2-Vue-Router" class="headerlink" title="2.Vue Router"></a>2.Vue Router</h2><p>Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。包含的功能有：<br>1）、嵌套的路由/视图表<br>2）、模块化的、基于组件的路由配置<br>3）、路由参数、查询、通配符<br>4）、基于 Vue.js 过渡系统的视图过渡效果<br>5）、细粒度的导航控制<br>6）、带有自动激活的 CSS class 的链接<br>7）、HTML5 历史模式或 hash 模式，在 IE9 中自动降级<br>8）、自定义的滚动条行为</p><h2 id="3-Vuex"><a href="#3-Vuex" class="headerlink" title="3.Vuex"></a>3.Vuex</h2><p>   Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。Vuex 也集成到 Vue 的官方调试具 devtools extension，提供了诸如零配置的 time-travel 调试、状态快照导入导出等高级调试功能。<br>   Vuex 可以帮助我们管理共享状态，并附带了更多的概念和框架。这需要对短期和长期效益进行权衡。</p><p>  如果您不打算开发大型单页应用，使用 Vuex 可能是繁琐冗余的。确实是如此——如果您的应用够简单，您最好不要使用 Vuex。一个简单的 store 模式就足够您所需了。但是，如果您需要构建一个中大型单页应用，您很可能会考虑如何更好地在组件外部管理状态，Vuex 将会成为自然而然的选择。</p><h2 id="4-Axios"><a href="#4-Axios" class="headerlink" title="4.Axios"></a>4.Axios</h2><p>Axios是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。Axios的特性有:<br>1）、从浏览器中创建 XMLHttpRequests<br>2）、从 node.js 创建 http 请求<br>3）、支持 Promise API<br>4）、拦截请求和响应<br>5）、转换请求数据和响应数据<br>6）、取消请求<br>7）、自动转换 JSON 数据<br>8）、客户端支持防御 XSRF</p><h1 id="5-搭配UI框架"><a href="#5-搭配UI框架" class="headerlink" title="5.搭配UI框架:"></a>5.搭配UI框架:</h1><p>iview 一套基于 Vue的高质量UI 组件库(分为小程序和pc端等不同版本)<br>vant 轻量、可靠的移动端 Vue 组件库,是有赞开源的一套基于 Vue 2.0 的 Mobile 组件库,旨在更快、更简单地开发基于 Vue 的美观易用的移动站点。<br>Ant Design Vue 是 Ant Design 的 Vue 实现，开发和服务于企业级后台产品。<br>elementUI 是基于 Vue 2.0 桌面端中后台组件库。</p><h1 id="vue的生命周期"><a href="#vue的生命周期" class="headerlink" title="vue的生命周期"></a>vue的生命周期</h1>]]></content>
       
       
       <categories>
