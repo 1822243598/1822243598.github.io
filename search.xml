@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Vue全家桶概述</title>
+      <link href="2020/11/28/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>2020/11/28/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="首先Vue全家桶是什么？"><a href="#首先Vue全家桶是什么？" class="headerlink" title="首先Vue全家桶是什么？"></a>首先Vue全家桶是什么？</h1><h2 id="1-vue-cli"><a href="#1-vue-cli" class="headerlink" title="1.vue-cli"></a>1.vue-cli</h2><p>vue-cli也叫脚手架，官方定义为Vue.js 开发的标准工具！相比scirpt标签引入，脚手架具有如下特点：<br>  1）、功能丰富<br>对 Babel、TypeScript、ESLint、PostCSS、PWA、单元测试和 End-to-end 测试提供开箱即用的支持。<br>  2）、易于扩展<br>它的插件系统可以让社区根据常见需求构建和共享可复用的解决方案。<br>  3）、Eject<br>Vue CLI 完全是可配置的，无需 eject。这样你的项目就可以长期保持更新了。<br>  4）、CLI 之上的图形化界面<br>通过配套的图形化界面创建、开发和管理你的项目。<br>  5）、即刻创建原型<br>用单个 Vue 文件即刻实践新的灵感。<br>  6）、面向未来<br>为现代浏览器轻松产出原生的 ES2015 代码，或将你的 Vue 组件构建为原生的 Web Components 组件。</p><h2 id="2-Vue-Router"><a href="#2-Vue-Router" class="headerlink" title="2.Vue Router"></a>2.Vue Router</h2><p>Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。包含的功能有：<br>1）、嵌套的路由/视图表<br>2）、模块化的、基于组件的路由配置<br>3）、路由参数、查询、通配符<br>4）、基于 Vue.js 过渡系统的视图过渡效果<br>5）、细粒度的导航控制<br>6）、带有自动激活的 CSS class 的链接<br>7）、HTML5 历史模式或 hash 模式，在 IE9 中自动降级<br>8）、自定义的滚动条行为</p><h2 id="3-Vuex"><a href="#3-Vuex" class="headerlink" title="3.Vuex"></a>3.Vuex</h2><p>   Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。Vuex 也集成到 Vue 的官方调试具 devtools extension，提供了诸如零配置的 time-travel 调试、状态快照导入导出等高级调试功能。<br>   Vuex 可以帮助我们管理共享状态，并附带了更多的概念和框架。这需要对短期和长期效益进行权衡。</p><p>  如果您不打算开发大型单页应用，使用 Vuex 可能是繁琐冗余的。确实是如此——如果您的应用够简单，您最好不要使用 Vuex。一个简单的 store 模式就足够您所需了。但是，如果您需要构建一个中大型单页应用，您很可能会考虑如何更好地在组件外部管理状态，Vuex 将会成为自然而然的选择。</p><h2 id="4-Axios"><a href="#4-Axios" class="headerlink" title="4.Axios"></a>4.Axios</h2><p>Axios是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。Axios的特性有:<br>1）、从浏览器中创建 XMLHttpRequests<br>2）、从 node.js 创建 http 请求<br>3）、支持 Promise API<br>4）、拦截请求和响应<br>5）、转换请求数据和响应数据<br>6）、取消请求<br>7）、自动转换 JSON 数据<br>8）、客户端支持防御 XSRF</p><h1 id="5-搭配UI等系列框架"><a href="#5-搭配UI等系列框架" class="headerlink" title="5.搭配UI等系列框架"></a>5.搭配UI等系列框架</h1><p>iview 一套基于 Vue的高质量UI 组件库(分为小程序和pc端等不同版本)<br>vant 轻量、可靠的移动端 Vue 组件库,是有赞开源的一套基于 Vue 2.0 的 Mobile 组件库,旨在更快、更简单地开发基于 Vue 的美观易用的移动站点。<br>Ant Design Vue 是 Ant Design 的 Vue 实现，开发和服务于企业级后台产品。<br>elementUI 是基于 Vue 2.0 桌面端中后台组件库。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> vue框架 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> web前端之vue框架 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2020/11/28/hello-world/"/>
       <url>2020/11/28/hello-world/</url>
